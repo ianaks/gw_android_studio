@@ -5,7 +5,7 @@
     android:layout_height="fill_parent"
     tools:context=".MainActivity">
 
-    < ImageView
+    <ImageView
         android:src="@drawable/background"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
@@ -38,35 +38,35 @@
                     android:layout_width="0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="1"
-                    android:src="@drawable/button_yellow_heart" />
+                    android:src="@drawable/button_full_heart" />
 
                 <ImageView
                     android:id="@+id/heart1"
                     android:layout_width="0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="1"
-                    android:src="@drawable/button_yellow_heart" />
+                    android:src="@drawable/button_full_heart" />
 
                 <ImageView
                     android:id="@+id/heart2"
                     android:layout_width="0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="1"
-                    android:src="@drawable/button_yellow_heart" />
+                    android:src="@drawable/button_full_heart" />
 
                 <ImageView
                     android:id="@+id/heart3"
                     android:layout_width="0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="1"
-                    android:src="@drawable/button_yellow_heart" />
+                    android:src="@drawable/button_full_heart" />
 
                 <ImageView
                     android:id="@+id/heart4"
                     android:layout_width="0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="1"
-                    android:src="@drawable/button_yellow_heart" />
+                    android:src="@drawable/button_full_heart" />
 
                 <ImageView
                     android:id="@+id/button_plus"
