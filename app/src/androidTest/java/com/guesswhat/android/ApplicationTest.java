@@ -1,4 +1,4 @@
-package com.gw_android.guesswhat;
+package com.guesswhat.android;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

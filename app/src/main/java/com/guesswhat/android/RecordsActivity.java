@@ -1,4 +1,4 @@
-package com.gw_android.guesswhat;
+package com.guesswhat.android;
 
 import android.app.Activity;
 import android.os.Bundle;
